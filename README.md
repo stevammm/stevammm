@@ -26,8 +26,8 @@
 
 
  <summary><h3>👨‍💻 Minha Jornada</h3></summary>
-  Comecei nos itinerários de ensino médio na escola de aplicação Feevale  <br>
-  e segui para o curso de ADS que a faculdade da Feevale mesmo oferece.
+  Comecei nos itinerários de ensino médio na escola de aplicação Feevale.  <br>
+
  
  #
   <h3> Redes sociais: </h3>
