@@ -1,8 +1,8 @@
 <h1> 🏄‍♂️ Stevam F. </h1> 
 
 
-🔭 Atualmente estudando: Html, Css, Js & Php; <br>
-📱 E-mail: mavetz55@gmail.com
+🔭 Atualmente estudando: Html, Css, Js, Php & Java; <br>
+📱 E-mail: stevamfg@gmail.com
 
 
 <div style="display: inline_block"><br>
