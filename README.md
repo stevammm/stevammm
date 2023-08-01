@@ -27,8 +27,8 @@
 
 
  <summary><h3>👨‍💻 Minha Jornada</h3></summary>
-  Comecei nos itinerários de ensino médio na escola de aplicação Feevale.  <br>
-
+  Estou atualmente fazendo um curso técnico na escola Feevale, aonde já concluí o primeiro semestre, e aprendi bastante sofre Html, Css Javascript e um pouco de Php<br>
+  E no momento estou no segundo semestre aprendendo Java e sobre Banco de Dados.
  
  #
   <h3> Redes sociais: </h3>
