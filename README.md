@@ -2,7 +2,7 @@
 
 
 🔭 Atualmente estudando: Html, Css, Js, Php, Java, Algoritimos e Banco de dados; <br>
-📱 <" "> E-mail: stevamfg@gmail.com
+📱 E-mail: stevamfg@gmail.com
 
 
 <div style="display: inline_block"><br>
