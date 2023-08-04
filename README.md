@@ -1,10 +1,8 @@
 <h1> 🏄‍♂️ Stevam F. </h1> 
-
-
+<hr>
 🔭 Atualmente estudando: Html, Css, Js, Php, Java, Algoritimos e Banco de dados; <br>
 📱 E-mail: stevamfg@gmail.com
-
-
+<hr>
 <div style="display: inline_block"><br>
 <hr>
   <h2> 🧰 Linguagens e ferramentas: 
