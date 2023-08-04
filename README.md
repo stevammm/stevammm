@@ -3,7 +3,6 @@
 📱 E-mail: stevamfg@gmail.com
 <hr>
 <div style="display: inline_block"><br>
-<hr>
   <h2> 🧰 Linguagens e ferramentas: 
  <br>
  <br>
