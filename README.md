@@ -13,7 +13,6 @@
     <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="right" alt="" height="150" style="border-radius:50px;" src="">
     <br>
-  <hr>
   </h2>
 </div>
 
