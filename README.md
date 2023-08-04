@@ -1,4 +1,4 @@
-<h1> 🏄‍♂️ Stevam F. </h1> 
+<h1> 🏄‍♂️ Stevam Fraga </h1> 
 🔭 Atualmente estudando: Html, Css, Js, Php, Java, Algoritimos e Banco de dados; <br>
 📱 E-mail: stevamfg@gmail.com
 <hr>
