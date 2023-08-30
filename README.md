@@ -13,9 +13,7 @@
     <img align="center" alt="Rafa-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="Rafa-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="right" alt="" height="150" style="border-radius:50px;" src="">
-    
-          
-    <br>
+        <br>
   </h2>
 </div>
 
