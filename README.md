@@ -25,7 +25,7 @@
 
 
  <summary><h3>👨‍💻 Minha Jornada</h3></summary>
-  Estou atualmente fazendo um curso técnico na escola Feevale, aonde já concluí o primeiro semestre, aprendi bastante sobre Html, Css, Javascript e um pouco de Php. E no momento estou no segundo semestre aprendendo sobre Banco de Dados, mais de Php e Java.<br>
+  Estou atualmente fazendo um curso técnico na escola Feevale, aonde já concluí o primeiro semestre, aprendi bastante sobre Html, Css, Javascript e um pouco de Php. E no momento estou no segundo semestre aprendendo sobre Banco de Dados, C# e bastante de Python com Arduíno.<br>
  
  
  #
