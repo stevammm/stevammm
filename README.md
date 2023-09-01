@@ -1,5 +1,5 @@
 <h1> 🏄‍♂️ Stevam Fraga </h1> 
-🔭 Atualmente estudando: Html, Css, Js, Php, Java, Algoritimos e Banco de dados; <br>
+🔭 Atualmente estudando: Html, Css, Js, Php, C#, Arduíno, Algoritimos e Banco de dados; <br>
 📱 E-mail: stevamfg@gmail.com
 <hr>
 <div style="display: inline_block"><br>
