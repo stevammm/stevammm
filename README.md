@@ -1,5 +1,5 @@
 <h1> 🏄‍♂️ Stevam Fraga </h1> 
-🔭 Atualmente estudando: Php, C#, Arduinos, Algoritimos, Banco de dados e Gerenciamento de dados; <br>
+🔭 Atualmente estudando: Php, C#, Arduinos com Python, Algoritimos, Banco de dados e Gerenciamento de dados; <br>
 📱 E-mail: stevamfg@gmail.com
 <hr>
 <div style="display: inline_block"><br>
