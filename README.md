@@ -7,7 +7,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stevammm&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=006400&text_color=00FF7F&bg_color=0d1117" alt="Stevam github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stevammm&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F&bg_color=0d1117" alt="Stevam github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevammm&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
 </div>
 
@@ -23,3 +23,6 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
