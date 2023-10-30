@@ -13,10 +13,9 @@
 
 
 <div align="center"> 
-<a href="https://linktr.ee/https://linktr.ee/sonder_cs" target="_blank"><img src="https://img.shields.io/badge/-Linktree-%234BBF6A?style=for-the-badge&logo=linktree&logoColor=white"></a>
-<a href="https://instagram.com/sonder_cs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://instagram.com/stevamfg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  
-<a href="https://www.linkedin.com/in/joão-pedro-h-alexandrino-19903a276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="[https://www.linkedin.com/in/joão-pedro-h-alexandrino-19903a276/](https://www.linkedin.com/in/stevam-fraga-259254278/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 <div style="display: inline_block"><br>
   <h2> 🧰 Linguagens e ferramentas: 
