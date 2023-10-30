@@ -16,6 +16,13 @@
 </div>
 
 
+<div align="center"> 
+<a href="https://instagram.com/stevamfg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+
+<a href="[https://www.linkedin.com/in/joão-pedro-h-alexandrino-19903a276/](https://www.linkedin.com/in/stevam-fraga-259254278/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+
+
 ### • Languages and tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
